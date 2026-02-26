@@ -13,3 +13,4 @@ conda create -n qwen_finetuning python=3.9
 conda activate qwen_finetuning
 pip install swanlab modelscope==1.22.0 "transformers>=4.50.0" datasets==3.2.0 accelerate pandas addict
 
+2. 运行训练
