@@ -37,3 +37,13 @@ python train.py
 * **链接**: https://modelscope.cn/datasets/krisfu/delicate_medical_r1_data
 * **格式**: 问题 (Input) -> 思考过程 (Think) -> 回答 (Answer)
 
+## 🙏 致谢与引用 (Acknowledgement)
+本项目参考并借鉴了以下开源项目与代码：
+
+* **基座模型**: Qwen/Qwen3-0.6B - 感谢阿里云通义千问团队提供的优秀开源模型。
+* **参考代码/思路**: https://docs.swanlab.cn/examples/qwen3-medical.html
+* **特别感谢**: 开源社区的所有贡献者。
+
+## 📄 License
+MIT License
+
