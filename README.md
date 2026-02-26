@@ -1,4 +1,4 @@
-# Qwen3-0.6B Medical Finetuning (Qwen3-0.6B 医疗问答微调)
+# Qwen3-0.6B Medical Finetuning
 
 这是一个基于 **[Qwen3-0.6B](https://modelscope.cn/models/Qwen/Qwen3-0.6B)** 小参数语言模型进行的医疗领域微调项目。
 
