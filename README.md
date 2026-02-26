@@ -18,3 +18,7 @@ pip install swanlab modelscope==1.22.0 "transformers>=4.50.0" datasets==3.2.0 ac
 直接运行主程序即可：
 ```bash
 python train.py
+```
+首次运行：代码会自动下载约 1GB 的模型文件和数据集，请保持网络畅通。
+GPU 用户：训练速度快，显存占用低。
+CPU 用户：训练速度较慢，但在任何机器上都能跑通流程。
