@@ -31,3 +31,9 @@ python train.py
 | `data_helper.py` | **数据处理**：自动下载数据集，清洗并转换为 ChatML 格式 |
 | `model_helper.py` | **模型工具**：自动下载模型，智能判断设备 (CPU/GPU) 并加载权重 |
 
+## 📊 数据集 (Dataset)
+本项目使用 ModelScope 上的开源医疗数据集：
+* **名称**: krisfu/delicate_medical_r1_data
+* **链接**: https://modelscope.cn/datasets/krisfu/delicate_medical_r1_data
+* **格式**: 问题 (Input) -> 思考过程 (Think) -> 回答 (Answer)
+
